@@ -1,0 +1,106 @@
+
+body{
+    background-color: rgb(238, 223, 223);
+    background-image: url("images/fb.jpg");
+}
+
+header {
+    background-color:rgb(183, 203, 209);
+    height: 100px;
+    width: 100%;
+  
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80;
+    
+        }
+
+.boxl{
+    text-align: center;
+    width: 20%;
+    height: 650px;
+    float:left;
+  /*  background-image: url("images/drink.PNG");*/
+    margin-left: 0%; /*spcae to the left*/
+    margin-right: 0%; /*spcae to the right*/
+    color: white;
+}
+
+.boxm{
+    text-align: center;
+    width: 60%;
+    height: 650px;
+    background-color:rgb(225, 225, 235);
+    float:left;
+    
+}
+
+.boxr{
+    text-align: center;
+    width: 20%;
+    height: 650px;
+    float:left;
+    color: white;
+}
+
+footer{
+    background-color:khaki;
+    opacity: 0.2;
+    width:100%;
+    height:5%;
+
+}
+nav{
+    background-color: #025373
+    width: 100%;
+    height: 100px;
+    margin-left: 0px; /*spcae to the left*/
+    margin-right: 5; /*spcae to the right*/
+
+
+
+}
+.box{
+    text-align: center;
+    width: 60%;
+    height: 650px;
+    float:left;
+    margin-left: 20%; 
+    color: white;
+    font-size: 35px;
+
+    
+}
+
+
+.boxc{
+    text-align: center;
+    width: 60%;
+    height: 650px;
+    
+    float:left;
+    
+}
+ul{
+list-style-type: none;
+
+
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: #3D3D3D;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-left: 20px;
+
+
+}
